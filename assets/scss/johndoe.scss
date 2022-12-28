@@ -1,0 +1,79 @@
+/*!
+=========================================================
+* JohnDoe Landing page
+=========================================================
+
+* Copyright: 2019 DevCRUD (https://devcrud.com)
+* Licensed: (https://devcrud.com/licenses)
+* Coded by www.devcrud.com
+
+=========================================================
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+*/
+
+
+// Core
+@import "assets/scss/vendors/bootstrap-4.3.1/functions";
+
+// custom variables
+@import "assets/scss/abstracts/variables";
+// bootstrap variables
+@import "assets/scss/vendors/bootstrap-4.3.1/variables";
+
+@import "assets/scss/vendors/bootstrap-4.3.1/mixins";
+@import "assets/scss/abstracts/mixins";
+
+
+// Bootstrap 4.3.1
+@import "assets/scss/vendors/bootstrap-4.3.1/root";
+@import "assets/scss/vendors/bootstrap-4.3.1/reboot";
+@import "assets/scss/vendors/bootstrap-4.3.1/type";
+@import "assets/scss/vendors/bootstrap-4.3.1/images";
+@import "assets/scss/vendors/bootstrap-4.3.1/code";
+@import "assets/scss/vendors/bootstrap-4.3.1/grid";
+@import "assets/scss/vendors/bootstrap-4.3.1/tables";
+@import "assets/scss/vendors/bootstrap-4.3.1/forms";
+@import "assets/scss/vendors/bootstrap-4.3.1/buttons";
+@import "assets/scss/vendors/bootstrap-4.3.1/transitions";
+@import "assets/scss/vendors/bootstrap-4.3.1/dropdown";
+@import "assets/scss/vendors/bootstrap-4.3.1/button-group";
+@import "assets/scss/vendors/bootstrap-4.3.1/input-group";
+@import "assets/scss/vendors/bootstrap-4.3.1/custom-forms";
+@import "assets/scss/vendors/bootstrap-4.3.1/nav";
+@import "assets/scss/vendors/bootstrap-4.3.1/navbar";
+@import "assets/scss/vendors/bootstrap-4.3.1/card";
+@import "assets/scss/vendors/bootstrap-4.3.1/breadcrumb";
+@import "assets/scss/vendors/bootstrap-4.3.1/pagination";
+@import "assets/scss/vendors/bootstrap-4.3.1/badge";
+@import "assets/scss/vendors/bootstrap-4.3.1/jumbotron";
+@import "assets/scss/vendors/bootstrap-4.3.1/alert";
+@import "assets/scss/vendors/bootstrap-4.3.1/progress";
+@import "assets/scss/vendors/bootstrap-4.3.1/media";
+@import "assets/scss/vendors/bootstrap-4.3.1/list-group";
+@import "assets/scss/vendors/bootstrap-4.3.1/close";
+@import "assets/scss/vendors/bootstrap-4.3.1/toasts";
+@import "assets/scss/vendors/bootstrap-4.3.1/modal";
+@import "assets/scss/vendors/bootstrap-4.3.1/tooltip";
+@import "assets/scss/vendors/bootstrap-4.3.1/popover";
+@import "assets/scss/vendors/bootstrap-4.3.1/carousel";
+@import "assets/scss/vendors/bootstrap-4.3.1/spinners";
+@import "assets/scss/vendors/bootstrap-4.3.1/utilities";
+@import "assets/scss/vendors/bootstrap-4.3.1/print";
+
+
+// custom 
+@import "assets/scss/base/typography";
+
+@import "assets/scss/components/breadcrumb";
+@import "assets/scss/components/button";
+@import "assets/scss/components/card";
+@import "assets/scss/components/code";
+@import "assets/scss/components/dropdowns";
+@import "assets/scss/components/nav";
+@import "assets/scss/components/navbars";
+@import "assets/scss/components/pagination";
+
+@import "assets/scss/layout/footer";
+@import "assets/scss/layout/header";
+@import "assets/scss/layout/sections";
